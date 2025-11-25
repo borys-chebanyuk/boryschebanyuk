@@ -7,8 +7,6 @@ Google Apps Script Developer & Automation Engineer
 I was introduced to the IT world while taking a QA Manual course. My first job was as a tester at a front-end agency. In that position, I began exploring no-code automation tools such as Zapier, Make, and Pipedream. Later, I discovered Google Apps Script thanks to a YouTube video tutorial, and my first project was a script for website parsing, which I adapted to meet the needs of my team.
 <p>Now I build automation solutions using Google Workspace, Apps Script, Google Sheets, Drive, Forms, and external REST APIs.
 My focus is saving clients time, reducing manual work, and creating stable, maintainable automation systems.</p>
-<br>
-<br>
 
 🚀 Technical Skills
 --------------------------------------------------
