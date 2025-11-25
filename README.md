@@ -4,19 +4,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Google Apps Script Developer & Automation Engineer
 --------------------------------------------------
 
-I was introduced to the IT world while taking a QA Manual course. My first job was as a tester at a front-end agency. In that position, I began exploring no-code automation tools such as Zapier, Make, and Pipedream. Later, I discovered Google Apps Script thanks to a YouTube video tutorial , and my first project was a script for website parsing, which I adapted to meet the needs of my team.
-
-Thanks to this, I was able to develop my Apps Script skills and write scripts that connect to web services via the API. Also, thanks to this I improved my knowledge in Postman.
+I was introduced to the IT world while taking a QA Manual course. My first job was as a tester at a front-end agency. In that position, I began exploring no-code automation tools such as Zapier, Make, and Pipedream. Later, I discovered Google Apps Script thanks to a YouTube video tutorial, and my first project was a script for website parsing, which I adapted to meet the needs of my team.
+<p>Now I build automation solutions using Google Workspace, Apps Script, Google Sheets, Drive, Forms, and external REST APIs.
+My focus is saving clients time, reducing manual work, and creating stable, maintainable automation systems.</p>
 <br>
 <br>
 
+🚀 Technical Skills
+--------------------------------------------------
+- Google Apps Script (JavaScript)
+- Google Workspace: Sheets, Forms, Drive, Gmail API
+- REST API integration
+- Zapier integration
+- Postman API calls
 
 ✉️ You can contact me at
 --------------------------------------------------
 
 - E-mail [chebanyuk25@gmail.com](mailto:chebanyuk25@gmail.com) 
 - LinkedIn [http://www.linkedin.com/in/borys](http://www.linkedin.com/in/borys-c-75b76a125)
-<br>
+- Location: Ukraine — available for remote work
 
 Languages and Tools:
 --------------------------------------------------
